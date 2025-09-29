@@ -25,5 +25,3 @@ class Can_Place_Flowers{
     }
 }
 }
-
-//
